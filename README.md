@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there 👋, I'm Vaishnavi Shinde  
 
-<!--
-**debugwith-Vaishnavi/debugwith-Vaishnavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Sc. (ECS) Student | Sangola Mahavidyalaya  
+💻 Programming in **C++, Python, SQL**  
+🚀 Passionate about problem solving & algorithms  
+🌱 Currently learning **Advanced Python & GUI Development**  
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Languages: C++, Python  
+- Database: Oracle SQL  
+- Tools: Git, Tkinter  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- [Sorting Algorithms Visualizer](#) – GUI tool to demonstrate Bubble, Quick & Merge Sort  
+
+📫 Connect with me:  
+[LinkedIn](https://www.linkedin.com/in/vaishnavi-shinde-08b327335?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [Email](mailto:vaishnavishinde8795@gmail.com)  
